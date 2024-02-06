@@ -1,2 +1,4 @@
 # Do wealthier people share a roof with more or less people? A study of household size and income in the city of Barcelona
 Data analysis and visualization project relating household size and income in the city of Barcelona
+
+Sometimes we hear people say that only rich people can afford forming a family. But many of us have also heard that in developed countries, it's often people with less resources that have more children. That last thing could be due to different reasons, like prioritizing children over career or less knowledge or access to birth control methods. Be as it may, it looks like there may not be a unidirectional relationship between economic status and number of children. To dig deeper into this issue, I explored data from the city of Barcelona, which also happens to be the best town in the World.
